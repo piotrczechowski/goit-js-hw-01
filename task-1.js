@@ -1,0 +1,4 @@
+function makeTransaction(quantity, pricePerDroid) {
+
+
+}
