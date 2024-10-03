@@ -1,7 +1,7 @@
 function makeTransaction(quantity, pricePerDroid) {
 
     let totalPrice = quantity * pricePerDroid;
-    return "Your ordered ${quantity} worth ${totalPrice) credits!"
+    return `Your ordered ${quantity} worth ${totalPrice} credits!`
 
 }
 
